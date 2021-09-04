@@ -1,1 +1,1 @@
-# Computing Codon Usage Bias in DNA and Gene Sequences
+# Computing Codon Usage Bias in Propionibacterium Acidifaciens
