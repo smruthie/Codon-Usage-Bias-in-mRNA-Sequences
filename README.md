@@ -4,13 +4,13 @@ The codon usage bias in the complete genome sequence of Propionibacterium acidif
 
 Propionibacterium acidifaciens complete genome sequence: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP033719.1?report=gbwithparts&log$=seqview
 
-rsgA gene sequence: https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=1396763&to=1397857
+rsgA gene sequence (sequence.txt): https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=1396763&to=1397857
 
-clpB gene sequence: https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=481531&to=484131
+clpB gene sequence (clpB.txt): https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=481531&to=484131
 
-rsfA gene sequence: https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=1573966&to=1574349&strand=true
+rsfA gene sequence (rsfA.txt): https://www.ncbi.nlm.nih.gov/nuccore/NZ_LT593929.1?report=genbank&from=1573966&to=1574349&strand=true
 
-dnaK gene sequence: https://www.ncbi.nlm.nih.gov/protein/AYW77536.1
+dnaK gene sequence (dnaK.txt): https://www.ncbi.nlm.nih.gov/protein/AYW77536.1
 
 
 Chen, S., Li, K., Cao, W., Wang, J., Zhao, T., Huan, Q., ... & Qian, W. (2017). Codon-resolution analysis reveals a direct and context-dependent impact of individual synonymous mutations on mRNA level. Molecular biology and evolution, 34(11), 2944-2958.
