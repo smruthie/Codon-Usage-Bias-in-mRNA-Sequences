@@ -1,6 +1,6 @@
 # Computing Codon Usage Bias in Propionibacterium acidifaciens
 
-This is just a fun project where I calculated the highest codon frequency in Propionibacterium acidifaciens' complete genome and its four highly expressed genes (ribosomes and chaperones are usually highly expressed in cells, hence the judgment). I need to make some updates: the sequence before start site and after stop site need to be excluded for each gene. Once that's done, I can use this algorithm for any codon usage bias computation. 
+I calculated the highest codon frequency in Propionibacterium acidifaciens' complete genome and its four highly expressed genes: two ribosomes and two chaperones. I need to make some updates: the sequence before start site and after stop site need to be excluded for each gene. Once that's done, I can use this algorithm for any codon usage bias computation. 
 
 Propionibacterium acidifaciens complete genome sequence: https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP033719.1?report=gbwithparts&log$=seqview
 
