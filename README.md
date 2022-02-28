@@ -6,4 +6,4 @@ The CLOCK:Bmal1 complex in mammals exist in both the SCN and peripheral tissues,
 
 The amino acids do not entirely show codon usage bias in CLOCK gene, but a few of them do: Tyrosine, Asparagine, Glutamate, and Cysteine. Some amino acids showed bias by choosing a particular codon **much** lesser than the other codons: TCG in Serine (0.95%), CCG in Proline (4.3%), GCG in Alanine (2.7%), etc. However, more comparisons are required to see if all amino acids with 4-6 codons show bias by choosing some codons radically lesser than the others; if it does, then it's more natural than for 2-codon amino acids due to more codon options. If not, then it may support the hypothesis that CLOCK genes show some codon usage bias. 
 
-This program can be used to compute codon usage frequencies for any coding sequence, but does not remove introns. So, it's important to make sure that the sequence starts with a start site and ends with a stop site (a.k.a., coding/mRNA sequence). 
+This program can be used to compute codon usage frequencies for any coding sequence. Note: it does not remove introns, so the imported file should strictly be a coding sequence (or coding sequences).
